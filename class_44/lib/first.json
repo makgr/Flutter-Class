@@ -1,0 +1,17 @@
+{
+    "name": "Mohammod Ali khan",
+    "isresgitered": true,
+    "age": 456,
+    "language": ["bengali", "Englsih"],
+    "friends": [
+        {
+            "name": "Babu",
+            "age": 345
+        },
+
+        {
+            "name": "Jakir",
+            "age": 5678
+        }
+    ]
+}
